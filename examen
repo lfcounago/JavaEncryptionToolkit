@@ -1,0 +1,16 @@
+Examen de Luis Fernández Couñago
+
+Pregunta 1: ¿Qué es el cifrado?
+El cifrado es el proceso de convertir datos legibles en un formato ilegible o incomprensible para proteger su confidencialidad.
+
+Pregunta 2: ¿Cuál es la diferencia entre cifrado simétrico y asimétrico?
+Respuesta: El cifrado simétrico utiliza una clave única para cifrar y descifrar datos, mientras que el cifrado asimétrico utiliza un par de claves (pública y privada) para este propósito.
+
+Pregunta 3: ¿Qué es una clave de cifrado?
+Respuesta: Una clave de cifrado es una serie de caracteres utilizados en el proceso de cifrado para convertir datos legibles en datos ilegibles o viceversa.
+
+Pregunta 4: ¿Cuál es el propósito principal del cifrado de extremo a extremo?
+Respuesta: El cifrado de extremo a extremo se utiliza para garantizar que solo el remitente y el destinatario de los datos puedan acceder a su contenido, incluso si los datos se transmiten a través de una red no segura.
+
+Pregunta 4: ¿Qué es un ataque de fuerza bruta en el contexto del cifrado?
+Respuesta: Un ataque de fuerza bruta es un método en el que un atacante intenta probar todas las combinaciones posibles de claves hasta encontrar la correcta para descifrar datos cifrados.
